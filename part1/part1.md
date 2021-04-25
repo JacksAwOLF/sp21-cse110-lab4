@@ -45,7 +45,7 @@
 	E. false, true converts to the number 1
 	F. true, 2 becomes a true boolean value
 15. the == operator will convert both expressions to numbers before converting them, so that '2' == 2 is true. the === will not do that, and will return false if the type mismatches.
-
+16. look at code
 17. there will be an error, because in the function modifyArray, we are modifying a constant variable, which cannot be modified.
-
+18. look at code
 19. the output is 1 3 4 2
